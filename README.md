@@ -15,5 +15,5 @@ O objetivo é desenvolver um jogo divertido onde um dinossauro corre pelo cenár
 
 ## 🚀 Como rodar o projeto
 
-**Dentro da pasta "installer" contém o instalador do jogo, execute e se divirta :)**
+**Na aba "Realeses contém o instalador do jogo, execute e se divirta :)**
    
